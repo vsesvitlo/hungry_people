@@ -95,7 +95,7 @@ line-height: 20px;
 }
 
 .container {
-	background-image: url("img/header-bg.png");
+	background-image: url("header-bg.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	min-width: 1440px;
@@ -127,7 +127,7 @@ line-height: 20px;
 	justify-content: center;
 	/* background: #000;*/
 	color: #fff;
-	background-image: url("img/header-bg.png");
+	background-image: url("header-bg.png");
 	background-repeat: no-repeat;
 	background-position:top center;
 	/*width: 1440px;
@@ -273,7 +273,7 @@ h1::before{
 }
 
 .container {
-	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("img/header-bg.png");
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("header-bg.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	width: 1440px;
@@ -314,7 +314,7 @@ flex-shrink: 1;
 	height: 40px;
 	border: 1px solid rgba(255, 255, 255, 0.2);
 	border-radius: 50%;
-	background-image: url("img/facebook.png");
+	background-image: url("facebook.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	}
@@ -324,7 +324,7 @@ flex-shrink: 1;
 	height: 40px;
 	border: 1px solid rgba(255, 255, 255, 0.2);
 	border-radius: 50%;
-	background-image: url("img/twitter.png");
+	background-image: url("twitter.png");
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -334,7 +334,7 @@ flex-shrink: 1;
 	height: 40px;
 	border: 1px solid rgba(255, 255, 255, 0.2);
 	border-radius: 50%;
-	background-image: url("img/instagram.png");
+	background-image: url("instagram.png");
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -410,7 +410,7 @@ line-height: 20px;
 	border-radius: 50%;
 	width: 40px;
 	height: 40px;
-	background-image: url("img/down.png");
+	background-image: url("down.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	
@@ -531,7 +531,7 @@ line-height: 28px;
 	left: -10%;
 	width: 475px;
 	height: 475px;
-	background-image: url("img/about_us.png");
+	background-image: url("about_us.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -569,7 +569,7 @@ line-height: 28px;
 	right: -10%;
 	width: 475px;
 	height: 475px;
-	background-image: url("img/master-cheef.png");
+	background-image: url("master-cheef.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -976,7 +976,7 @@ td {
 }
 
 .master_cheef {
-	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("img/master-cheef-bg.png");
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("master-cheef-bg.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	min-width: 1440px;
@@ -1102,7 +1102,7 @@ border-radius: 50px;
 	left: -10%;
 	width: 475px;
 	height: 475px;
-	background-image: url("img/old_clock.png");
+	background-image: url("old_clock.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1114,14 +1114,14 @@ border-radius: 50px;
 	right: -10%;
 	width: 475px;
 	height: 475px;
-	background-image: url("img/pancakes.png");
+	background-image: url("pancakes.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 .chocolate_pancakes {
-	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("img/specialites_bg.png");
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("specialites_bg.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	min-width: 1440px;
@@ -1134,7 +1134,7 @@ border-radius: 50px;
 	right: -10%;
 	width: 475px;
 	height: 475px;
-	background-image: url("img/weading-rings-bg.png");
+	background-image: url("weading-rings-bg.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1207,14 +1207,14 @@ top: 30px;
 	right: 10%;
 	width: 475px;
 	height: 475px;
-	background-image: url("img/cheers.png");
+	background-image: url("cheers.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 .private_events {
-	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("img/specialites_bg.png");
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("specialites_bg.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	min-width: 1440px;
@@ -1266,7 +1266,7 @@ color: rgba(255, 255, 255, 0.5);
 .photo_mazzo1 {
 	width: 475px;
 	height: 475px;
-	background-image: url("img/mazzo1.png");
+	background-image: url("mazzo1.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1275,7 +1275,7 @@ color: rgba(255, 255, 255, 0.5);
 .photo_mazzo2 {
 	width: 475px;
 	height: 475px;
-	background-image: url("img/mazzo2.png");
+	background-image: url("mazzo2.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1284,7 +1284,7 @@ color: rgba(255, 255, 255, 0.5);
 .photo_mazzo3 {
 	width: 475px;
 	height: 475px;
-	background-image: url("img/mazzo3.png");
+	background-image: url("mazzo3.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1293,7 +1293,7 @@ color: rgba(255, 255, 255, 0.5);
 .photo_mazzo4 {
 	width: 475px;
 	height: 475px;
-	background-image: url("img/mazzo4.png");
+	background-image: url("mazzo4.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1307,7 +1307,7 @@ color: rgba(255, 255, 255, 0.5);
 	width: 100%;
 	min-width: 1440px;
 	min-height: 475px;
-	background-image: url("img/map.png");
+	background-image: url("map.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
